@@ -21,7 +21,7 @@ A full-stack web application built with Next.js, Express, and Google Gemini AI t
 - Real-time data updates
 - Intuitive dashboard with visual analytics
 - Secure authentication with JWT
-- Persistent state management with Zustand
+- Persistent state management with Zustand.
 
 ## 🛠️ Tech Stack
 
