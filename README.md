@@ -319,9 +319,6 @@ See `backend/prisma/schema.prisma` for complete schema.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
